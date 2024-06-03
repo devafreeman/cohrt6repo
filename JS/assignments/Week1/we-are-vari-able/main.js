@@ -1,7 +1,10 @@
 /******************
  * YOUR CODE BELOW *
  ******************/
-
+let myFirstName = "Andrew"
+ let myLastName ="Freeman"
+let myFavoriteCeleb = "Freddy Fish"
+let mySentence = ""
 
 /*********************************************************************************************************************
 
