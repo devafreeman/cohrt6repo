@@ -3,8 +3,14 @@
 Your code goes below.
 
 */
-
-
+let x = 3
+let y = 10
+let z = 5
+let name = "Andrew"
+let greeting ='HEY'
+function multiply(){
+  x = x * 1
+}
 
 
 
