@@ -1,11 +1,17 @@
 /******************
  * YOUR CODE BELOW *
  ******************/
-let myFirstName = "Andrew"
- let myLastName ="Freeman"
-let myFavoriteCeleb = "Freddy Fish"
-let mySentence = ""
-
+let myFirstName = "x"
+ let myLastName ="y"
+let myFavoriteCeleb = "z"
+let mySentence = "x + y + z"
+let myLuckyNum = 7
+let myAge = 37
+let myHeight = 72
+let myFavoriteYear = 2024
+let mySum =  5 + 2317 + 36
+let myProduct = 232 * 43 / 2 + 4
+let myHeightAndAge = myAge + myHeight
 /*********************************************************************************************************************
 
  * CODE BELOW HERE IS FOR INTERNAL USE ONLY! IT ENSURES THAT THE TESTING *
